@@ -1,1 +1,1 @@
-# Walking-Assistant-Robot-for-Blind-People
+# Walking Assistant Robot for Blind People
